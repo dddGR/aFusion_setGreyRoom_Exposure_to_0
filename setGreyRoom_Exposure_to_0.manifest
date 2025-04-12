@@ -1,9 +1,9 @@
 {
 	"autodeskProduct":	"Fusion",
 	"type":	"script",
-	"author":	"le. Me",
+	"author":	"dddGR",
 	"description":	{
-		"":	"set Grey-Room environment Exposure to 0 to remove the darken effect"
+		"":	"set GreyRoom environment Exposure to 0 to remove the darken effect"
 	},
 	"version":	"",
 	"supportedOS":	"windows|mac",
